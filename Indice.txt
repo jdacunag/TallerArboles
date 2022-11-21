@@ -1,0 +1,13 @@
+sArboles21345
+tBinarios107
+tTernarios21005
+tN-enarios414370203
+sOrdenamiento23150
+tTeorema maestro22104
+tTiempo de ejecucion21022
+tBubble Sort20912
+sListas23641
+tDobles21134
+tSimples23941
+tCirculares24516
+tDoblemente circulares20312
